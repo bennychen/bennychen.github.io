@@ -4,7 +4,7 @@ title: Game Engine Framework
 date: 2010-02-04T13:44:37+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=705
+guid: /?p=705
 permalink: /2010/02/game-engine-framework/
 syntaxhighlighter_encoded:
   - "1"
@@ -62,7 +62,7 @@ Framework对于IT人士来说貌似是个挺时髦的词，这个词也经常被
 
 几乎所有的游戏或者说所有的图形渲染的程序，都是遵循下面这样一个过程，一个再熟悉不过的控制流。
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2010/02/flow-of-control.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="aligncenter size-full wp-image-712" title="flow of control" src="http://www.bennychen.cn/wp-content/uploads/2010/02/flow-of-control.jpg" alt="FoC of Game" srcset="http://www.bennychen.cn/wp-content/uploads/2010/02/flow-of-control.jpg 462w, http://www.bennychen.cn/wp-content/uploads/2010/02/flow-of-control-300x241.jpg 300w, http://www.bennychen.cn/wp-content/uploads/2010/02/flow-of-control-372x300.jpg 372w" sizes="(max-width: 462px) 100vw, 462px" /></a>
+<a href="/wp-content/uploads/2010/02/flow-of-control.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="aligncenter size-full wp-image-712" title="flow of control" src="/wp-content/uploads/2010/02/flow-of-control.jpg" alt="FoC of Game" srcset="/wp-content/uploads/2010/02/flow-of-control.jpg 462w, /wp-content/uploads/2010/02/flow-of-control-300x241.jpg 300w, /wp-content/uploads/2010/02/flow-of-control-372x300.jpg 372w" sizes="(max-width: 462px) 100vw, 462px" /></a>
 
 游戏的整个控制流就可以到这么简单，除了图上所描述的东西之外，再加上一系列的消息处理，就可以组成一个基本的游戏框架了。按照wiki上所描述的基本软件framework的4大特点，再来看看游戏引擎framework是如何体现的。
 

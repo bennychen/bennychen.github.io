@@ -4,7 +4,7 @@ title: Villarreal Deny Ten-Man Barcelona La Liga Title
 date: 2009-05-11T21:59:26+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=48
+guid: /?p=48
 permalink: /2009/05/villarreal-deny-ten-man-barcelona-la-liga-title/
 podPressPostSpecific:
   - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
@@ -17,7 +17,7 @@ tags:
   - la liga
 ---
 <div id="attachment_49" style="max-width: 542px" class="wp-caption alignnone">
-  <img class="size-full wp-image-49" title="barca-villarreal" src="http://www.bennychen.cn/wp-content/uploads/2009/05/barca-villarreal.jpg" alt="barca-villarreal" width="532" height="283" srcset="http://www.bennychen.cn/wp-content/uploads/2009/05/barca-villarreal.jpg 532w, http://www.bennychen.cn/wp-content/uploads/2009/05/barca-villarreal-300x159.jpg 300w, http://www.bennychen.cn/wp-content/uploads/2009/05/barca-villarreal-500x265.jpg 500w" sizes="(max-width: 532px) 100vw, 532px" />
+  <img class="size-full wp-image-49" title="barca-villarreal" src="/wp-content/uploads/2009/05/barca-villarreal.jpg" alt="barca-villarreal" width="532" height="283" srcset="/wp-content/uploads/2009/05/barca-villarreal.jpg 532w, /wp-content/uploads/2009/05/barca-villarreal-300x159.jpg 300w, /wp-content/uploads/2009/05/barca-villarreal-500x265.jpg 500w" sizes="(max-width: 532px) 100vw, 532px" />
   
   <p class="wp-caption-text">
     barca-villarreal

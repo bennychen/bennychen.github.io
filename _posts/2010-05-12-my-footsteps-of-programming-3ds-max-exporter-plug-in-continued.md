@@ -4,7 +4,7 @@ title: My Footsteps of Programming 3DS Max Exporter Plug-in (continued)
 date: 2010-05-12T16:21:45+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=789
+guid: /?p=789
 permalink: /2010/05/my-footsteps-of-programming-3ds-max-exporter-plug-in-continued/
 podPressPostSpecific:
   - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'
@@ -20,7 +20,7 @@ tags:
 ---
 Oh my goodness, how long has it been since I wrote the first part of this article? What on hell was I buzzing around for during this period which seemed years to me? This plug-in is nearly becoming a legacy for me. Now it&#8217;s time to bring it back and finish the remaining parts. And I will also upload the whole project&#8217;s source code and related docs later.
 
-First part of this article: <http://www.bennychen.cn/?p=640>
+First part of this article: </?p=640>
 
 ### Predefine mesh file format
 

@@ -4,7 +4,7 @@ title: My Footsteps of Programming 3DS Max Exporter Plug-in
 date: 2009-11-20T21:03:35+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=640
+guid: /?p=640
 permalink: /2009/11/my-footsteps-of-programming-3ds-max-exporter-plug-in/
 syntaxhighlighter_encoded:
   - "1"

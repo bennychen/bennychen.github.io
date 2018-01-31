@@ -4,7 +4,7 @@ title: indexed triangle lists最快
 date: 2009-06-16T17:30:19+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=221
+guid: /?p=221
 permalink: '/2009/06/indexed-triangle-lists%e6%9c%80%e5%bf%ab/'
 syntaxhighlighter_encoded:
   - "1"

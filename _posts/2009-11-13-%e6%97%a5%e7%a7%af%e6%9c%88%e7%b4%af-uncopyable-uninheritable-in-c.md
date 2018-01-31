@@ -4,7 +4,7 @@ title: '日积月累: Uncopyable && Uninheritable in C++'
 date: 2009-11-13T16:45:27+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=614
+guid: /?p=614
 permalink: '/2009/11/%e6%97%a5%e7%a7%af%e6%9c%88%e7%b4%af-uncopyable-uninheritable-in-c/'
 podPressPostSpecific:
   - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'

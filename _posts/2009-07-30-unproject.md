@@ -4,7 +4,7 @@ title: Unproject
 date: 2009-07-30T11:19:44+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=483
+guid: /?p=483
 permalink: /2009/07/unproject/
 syntaxhighlighter_encoded:
   - "1"
@@ -35,7 +35,7 @@ DX提供了一个函数D3DXVec3Unproject，可以做反投影，不过它只能�
 
 因为一般投影矩阵是像这样一种形式：
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2009/07/projmatrix.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="aligncenter size-full wp-image-488" title="projmatrix" src="http://www.bennychen.cn/wp-content/uploads/2009/07/projmatrix.jpg" alt="projmatrix" /></a>
+<a href="/wp-content/uploads/2009/07/projmatrix.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="aligncenter size-full wp-image-488" title="projmatrix" src="/wp-content/uploads/2009/07/projmatrix.jpg" alt="projmatrix" /></a>
 
 于是有拆分posProj&#8217; \* w&#8217; = posView \* matrixProj后，有：
 

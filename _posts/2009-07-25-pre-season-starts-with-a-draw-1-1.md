@@ -4,7 +4,7 @@ title: Pre-season starts with a draw (1-1)
 date: 2009-07-25T11:31:59+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=427
+guid: /?p=427
 permalink: /2009/07/pre-season-starts-with-a-draw-1-1/
 syntaxhighlighter_encoded:
   - "1"
@@ -21,7 +21,7 @@ tags:
   - Wembley Cup
 ---
 <p id="entradeta">
-  <strong><a href="http://www.bennychen.cn/wp-content/uploads/2009/07/barcelona-tottenham_01.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignleft size-full wp-image-428" title="barcelona-tottenham_01" src="http://www.bennychen.cn/wp-content/uploads/2009/07/barcelona-tottenham_01.jpg" alt="barcelona-tottenham_01" /></a>Barça drew their first pre-season game of the season against Tottenham Hotspur in the Wembley Cup. Pep Guardiola gave several players a chance to shine and Bojan Krkic scored for the Catalan outfit during the first half of an entertaining encounter.</strong>
+  <strong><a href="/wp-content/uploads/2009/07/barcelona-tottenham_01.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignleft size-full wp-image-428" title="barcelona-tottenham_01" src="/wp-content/uploads/2009/07/barcelona-tottenham_01.jpg" alt="barcelona-tottenham_01" /></a>Barça drew their first pre-season game of the season against Tottenham Hotspur in the Wembley Cup. Pep Guardiola gave several players a chance to shine and Bojan Krkic scored for the Catalan outfit during the first half of an entertaining encounter.</strong>
 </p>
 
 **巴萨在他们新赛季的第一场季前赛——在温布利杯对阵托特纳姆热刺的比赛中，收获了一场平局。在这场有些娱乐性的对抗中，瓜迪奥拉给了好几个球员表现的机会，博扬在上半场为球队取得了进球。

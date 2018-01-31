@@ -4,7 +4,7 @@ title: 为SyntaxHighlighter添加新语言
 date: 2011-09-04T13:36:03+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=1654
+guid: /?p=1654
 permalink: /2011/09/add-new-brush-for-syntaxhighlighter/
 sfw_pwd:
   - UKowFg1YKSXn

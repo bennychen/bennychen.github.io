@@ -4,7 +4,7 @@ title: 关于D3D10_MAPPED_TEXTURE2D的RowPitch
 date: 2009-06-30T17:02:04+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=247
+guid: /?p=247
 permalink: '/2009/06/%e5%85%b3%e4%ba%8ed3d10_mapped_texture2d%e7%9a%84rowpitch/'
 syntaxhighlighter_encoded:
   - "1"

@@ -4,7 +4,7 @@ title: 二叉查找树(Binary Search Tree)
 date: 2009-05-13T15:03:57+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=60
+guid: /?p=60
 permalink: '/2009/05/%e4%ba%8c%e5%8f%89%e6%9f%a5%e6%89%be%e6%a0%91binary-search-tree/'
 syntaxhighlighter_encoded:
   - "1"

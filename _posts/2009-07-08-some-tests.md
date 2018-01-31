@@ -4,7 +4,7 @@ title: Some Tests
 date: 2009-07-08T21:30:01+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=307
+guid: /?p=307
 permalink: /2009/07/some-tests/
 syntaxhighlighter_encoded:
   - "1"
@@ -24,7 +24,7 @@ tags:
 ### <span style="font-family: Arial;"><span style="font-size: medium;">1. Skinning</span></span>
 
 <p style="text-align: left;">
-  <a href="http://www.bennychen.cn/wp-content/uploads/2009/07/dhptbxnp_91f5tnxxcv_b.jpg" class="highslide-image" onclick="return hs.expand(this);"><img height="264" width="330" title="skinning on CPU" src="http://www.bennychen.cn/wp-content/uploads/2009/07/dhptbxnp_91f5tnxxcv_b.jpg" alt="skinning on CPU" /></a>
+  <a href="/wp-content/uploads/2009/07/dhptbxnp_91f5tnxxcv_b.jpg" class="highslide-image" onclick="return hs.expand(this);"><img height="264" width="330" title="skinning on CPU" src="/wp-content/uploads/2009/07/dhptbxnp_91f5tnxxcv_b.jpg" alt="skinning on CPU" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -32,7 +32,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://www.bennychen.cn/wp-content/uploads/2009/07/dhptbxnp_92dggphdg7_b.jpg" class="highslide-image" onclick="return hs.expand(this);"><img height="267" width="330" title="skinning on GPU" src="http://www.bennychen.cn/wp-content/uploads/2009/07/dhptbxnp_92dggphdg7_b.jpg" alt="skinning on GPU" /></a>
+  <a href="/wp-content/uploads/2009/07/dhptbxnp_92dggphdg7_b.jpg" class="highslide-image" onclick="return hs.expand(this);"><img height="267" width="330" title="skinning on GPU" src="/wp-content/uploads/2009/07/dhptbxnp_92dggphdg7_b.jpg" alt="skinning on GPU" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -47,13 +47,13 @@ tags:
 
 **Instancing without SO**
 
-<img height="117" width="150" alt="" src="http://www.bennychen.cn/wordpress/wp-content/uploads/Primary Instancing_1000.jpg" />&nbsp; <img height="117" width="150" alt="" src="http://www.bennychen.cn/wordpress/wp-content/uploads/Primary Instancing_2000.jpg" />&nbsp; <img height="117" width="150" alt="" src="http://www.bennychen.cn/wordpress/wp-content/uploads/Primary Instancing_3000.jpg" />
+<img height="117" width="150" alt="" src="/wordpress/wp-content/uploads/Primary Instancing_1000.jpg" />&nbsp; <img height="117" width="150" alt="" src="/wordpress/wp-content/uploads/Primary Instancing_2000.jpg" />&nbsp; <img height="117" width="150" alt="" src="/wordpress/wp-content/uploads/Primary Instancing_3000.jpg" />
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1,000 Instances&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,000 Instances&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3,000 Instances
 
 **Instancing with SO**
 
-<img height="117" width="150" alt="" src="http://www.bennychen.cn/wordpress/wp-content/uploads/SO Instancing_1000.jpg" />&nbsp; <img height="116" width="150" alt="" src="http://www.bennychen.cn/wordpress/wp-content/uploads/SO Instancing_2000.jpg" />&nbsp; <img height="117" width="150" alt="" src="http://www.bennychen.cn/wordpress/wp-content/uploads/SO Instancing_3000.jpg" />
+<img height="117" width="150" alt="" src="/wordpress/wp-content/uploads/SO Instancing_1000.jpg" />&nbsp; <img height="116" width="150" alt="" src="/wordpress/wp-content/uploads/SO Instancing_2000.jpg" />&nbsp; <img height="117" width="150" alt="" src="/wordpress/wp-content/uploads/SO Instancing_3000.jpg" />
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1,000 Instances&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,000 Instances&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3,000 Instances
 
@@ -159,7 +159,7 @@ tags:
 
 三个方法在同一个视角，使得它们截取和渲染的数量是一致的。总共65536个Instance，当前绘制都是15485个。
 
-<img height="117" width="150" alt="" src="http://www.bennychen.cn/wordpress/wp-content/uploads/16.jpg" />&nbsp; <img height="117" width="150" alt="" src="http://www.bennychen.cn/wordpress/wp-content/uploads/43.jpg" />&nbsp; <img height="117" width="150" alt="" src="http://www.bennychen.cn/wordpress/wp-content/uploads/32.jpg" />
+<img height="117" width="150" alt="" src="/wordpress/wp-content/uploads/16.jpg" />&nbsp; <img height="117" width="150" alt="" src="/wordpress/wp-content/uploads/43.jpg" />&nbsp; <img height="117" width="150" alt="" src="/wordpress/wp-content/uploads/32.jpg" />
 
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 顺序执行&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** **四叉树&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** **在GPU**
 

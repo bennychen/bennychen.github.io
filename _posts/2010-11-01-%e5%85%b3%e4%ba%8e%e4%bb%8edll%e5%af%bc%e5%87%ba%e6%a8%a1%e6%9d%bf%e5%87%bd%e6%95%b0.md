@@ -4,7 +4,7 @@ title: 关于从DLL导出模板函数
 date: 2010-11-01T00:10:47+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=1118
+guid: /?p=1118
 permalink: '/2010/11/%e5%85%b3%e4%ba%8e%e4%bb%8edll%e5%af%bc%e5%87%ba%e6%a8%a1%e6%9d%bf%e5%87%bd%e6%95%b0/'
 sfw_pwd:
   - FpiQQ5R6MdVz

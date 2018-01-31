@@ -4,7 +4,7 @@ title: 新浪微博API for MOAI
 date: 2012-11-13T13:54:50+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=1713
+guid: /?p=1713
 permalink: /2012/11/sina-weiboapi-for-moai/
 sfw_pwd:
   - vnPOaE8fG7vV

@@ -4,7 +4,7 @@ title: Barça go out with heads held high (1-0)
 date: 2010-04-29T21:03:04+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=768
+guid: /?p=768
 permalink: /2010/04/barca-go-out-with-heads-held-high-1-0/
 podPressPostSpecific:
   - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'
@@ -21,7 +21,7 @@ FC Barcelona will not be going to the 2010 Champions League final. They dominate
 巴萨将无法前往2010的冠军杯决赛了。在今夜，他们控制了国际米兰，但需要的进球却没有到来。皮克83分钟的进球奏响了一篇扣人心弦的结尾曲，但前往马德里的却将是意大利人。
 
 <p style="text-align: left;">
-  <a href="http://www.bennychen.cn/wp-content/uploads/2010/04.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="size-full wp-image-769  aligncenter" title="barca1_0Inter" src="http://www.bennychen.cn/wp-content/uploads/2010/04/jpg" alt="" width="237" height="161" /></a>
+  <a href="/wp-content/uploads/2010/04.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="size-full wp-image-769  aligncenter" title="barca1_0Inter" src="/wp-content/uploads/2010/04/jpg" alt="" width="237" height="161" /></a>
 </p>
 
 <p style="text-align: left;">

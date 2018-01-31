@@ -4,7 +4,7 @@ title: 梅斯塔利亚，我们来了！
 date: 2009-05-13T16:37:09+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=72
+guid: /?p=72
 permalink: '/2009/05/%e6%a2%85%e6%96%af%e5%a1%94%e5%88%a9%e4%ba%9a%ef%bc%8c%e6%88%91%e4%bb%ac%e6%9d%a5%e4%ba%86%ef%bc%81/'
 syntaxhighlighter_encoded:
   - "1"

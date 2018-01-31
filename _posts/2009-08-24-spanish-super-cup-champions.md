@@ -4,7 +4,7 @@ title: Spanish Super Cup Champions
 date: 2009-08-24T22:12:29+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=531
+guid: /?p=531
 permalink: /2009/08/spanish-super-cup-champions/
 syntaxhighlighter_encoded:
   - "1"
@@ -18,7 +18,7 @@ tags:
   - barca
   - spanish super cup
 ---
-<a href="http://www.bennychen.cn/wp-content/uploads/2009/08/supercopa_r2_c2.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="aligncenter size-full wp-image-532" title="supercopa_r2_c2" src="http://www.bennychen.cn/wp-content/uploads/2009/08/supercopa_r2_c2.jpg" alt="supercopa_r2_c2" srcset="http://www.bennychen.cn/wp-content/uploads/2009/08/supercopa_r2_c2.jpg 558w, http://www.bennychen.cn/wp-content/uploads/2009/08/supercopa_r2_c2-300x201.jpg 300w, http://www.bennychen.cn/wp-content/uploads/2009/08/supercopa_r2_c2-446x300.jpg 446w" sizes="(max-width: 558px) 100vw, 558px" /></a>
+<a href="/wp-content/uploads/2009/08/supercopa_r2_c2.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="aligncenter size-full wp-image-532" title="supercopa_r2_c2" src="/wp-content/uploads/2009/08/supercopa_r2_c2.jpg" alt="supercopa_r2_c2" srcset="/wp-content/uploads/2009/08/supercopa_r2_c2.jpg 558w, /wp-content/uploads/2009/08/supercopa_r2_c2-300x201.jpg 300w, /wp-content/uploads/2009/08/supercopa_r2_c2-446x300.jpg 446w" sizes="(max-width: 558px) 100vw, 558px" /></a>
 
 **FC Barcelona beat Athletic Bilbao 3-0 at the Camp Nou to secure their 8th Supercopa de España trophy. Two goals from Lionel Messi and one from Bojan earnt the Catalan side the 5-1 aggregate win.** 
 

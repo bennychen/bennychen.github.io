@@ -4,7 +4,7 @@ title: 基于Moai的Pacman
 date: 2011-08-29T22:49:48+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=1621
+guid: /?p=1621
 permalink: /2011/08/moai-based-pacman/
 sfw_pwd:
   - SEiLKdM2xGiU
@@ -33,4 +33,4 @@ I programmed the game for several objectives. Firstly, because I am just new to 
 
 All in all, I programmed Moai-based Pacman for fun and share my code, related game assets and documents here. If there can be any help for you who are interested in Moai and OO game programming, that would be my best honer.
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2011/08/pacman.png" class="highslide-image" onclick="return hs.expand(this);"><img src="http://www.bennychen.cn/wp-content/uploads/2011/08/pacman-262x300.png" alt="" title="pacman" width="262" height="300" class="alignnone size-medium wp-image-1626" srcset="http://www.bennychen.cn/wp-content/uploads/2011/08/pacman-262x300.png 262w, http://www.bennychen.cn/wp-content/uploads/2011/08/pacman.png 559w" sizes="(max-width: 262px) 100vw, 262px" /></a>
+<a href="/wp-content/uploads/2011/08/pacman.png" class="highslide-image" onclick="return hs.expand(this);"><img src="/wp-content/uploads/2011/08/pacman-262x300.png" alt="" title="pacman" width="262" height="300" class="alignnone size-medium wp-image-1626" srcset="/wp-content/uploads/2011/08/pacman-262x300.png 262w, /wp-content/uploads/2011/08/pacman.png 559w" sizes="(max-width: 262px) 100vw, 262px" /></a>

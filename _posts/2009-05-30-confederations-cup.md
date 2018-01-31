@@ -4,7 +4,7 @@ title: Confederations Cup
 date: 2009-05-30T10:16:04+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=152
+guid: /?p=152
 permalink: /2009/05/confederations-cup/
 syntaxhighlighter_encoded:
   - "1"

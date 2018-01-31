@@ -4,7 +4,7 @@ title: 开始看《Game Engine Architecture》
 date: 2010-10-19T21:21:21+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=1082
+guid: /?p=1082
 permalink: '/2010/10/%e5%bc%80%e5%a7%8b%e7%9c%8bgame-engine-architecture/'
 sfw_pwd:
   - k2SuC00wV14R

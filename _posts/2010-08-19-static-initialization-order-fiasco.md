@@ -4,7 +4,7 @@ title: Static Initialization Order Fiasco
 date: 2010-08-19T12:59:45+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=999
+guid: /?p=999
 permalink: /2010/08/static-initialization-order-fiasco/
 sfw_pwd:
   - EEIUBTYc6Wbj

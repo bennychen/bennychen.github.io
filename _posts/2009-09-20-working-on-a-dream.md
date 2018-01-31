@@ -4,7 +4,7 @@ title: Working On a Dream
 date: 2009-09-20T21:11:45+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=560
+guid: /?p=560
 permalink: /2009/09/working-on-a-dream/
 syntaxhighlighter_encoded:
   - "1"
@@ -18,7 +18,7 @@ tags:
   - bruce springsteen
   - working on a dream
 ---
-<a href="http://www.bennychen.cn/wp-content/uploads/2009/09/working-on-a-dream.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="size-full wp-image-565 alignright" title="working-on-a-dream" src="http://www.bennychen.cn/wp-content/uploads/2009/09/working-on-a-dream.jpg" alt="working-on-a-dream" width="150" height="150" /></a>最近一直在听Bruce Springsteen最新专辑《Working On a Dream》，Springsteen这样老男人的声音我很喜欢，铿锵有力却绝不缺乏磁性，热情可以唱得澎湃四射，柔情又可以唱的断人心肠。
+<a href="/wp-content/uploads/2009/09/working-on-a-dream.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="size-full wp-image-565 alignright" title="working-on-a-dream" src="/wp-content/uploads/2009/09/working-on-a-dream.jpg" alt="working-on-a-dream" width="150" height="150" /></a>最近一直在听Bruce Springsteen最新专辑《Working On a Dream》，Springsteen这样老男人的声音我很喜欢，铿锵有力却绝不缺乏磁性，热情可以唱得澎湃四射，柔情又可以唱的断人心肠。
 
 专辑的同名歌曲《Working On a Dream》我很喜欢，据说是去年竞选运动时奥巴马的御用歌曲。不过我不在乎它和政客的关系，这是一首很激励人的优美歌曲，是这位被称为“为蓝领工人歌唱”的老摇滚的又一首力作。
 

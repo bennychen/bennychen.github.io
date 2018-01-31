@@ -4,7 +4,7 @@ title: Game Framework的两种实现方式
 date: 2011-04-24T14:11:21+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=1469
+guid: /?p=1469
 permalink: '/2011/04/game-framework%e7%9a%84%e4%b8%a4%e7%a7%8d%e5%ae%9e%e7%8e%b0%e6%96%b9%e5%bc%8f/'
 sfw_pwd:
   - vx0uWIFsGuA3
@@ -20,11 +20,11 @@ tags:
   - 实现
   - 继承
 ---
-一年多前，曾经写过一篇关于[Game Engine Framework](http://www.bennychen.cn/2010/02/game-engine-framework/)的文章，当时基本上是为了巩固并加深对framework的理解。最近又做了一些关于framework的工作，对于framework的实现方式又有了些新的认识。虽然我现在做的已经完全不是game了，不过方式对于game也同样适用。
+一年多前，曾经写过一篇关于[Game Engine Framework](/2010/02/game-engine-framework/)的文章，当时基本上是为了巩固并加深对framework的理解。最近又做了一些关于framework的工作，对于framework的实现方式又有了些新的认识。虽然我现在做的已经完全不是game了，不过方式对于game也同样适用。
 
 这篇文章主要希望通过一些示例性的C++代码介绍game framework的两种实现方式。首先，我还是搬出一年多前的那篇文章里的game流程图，以下的一些代码也主要基于这张图实现。对于图的细节在这里不再赘述，可以再去翻看之前的那篇文章。
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2010/02/flow-of-control.jpg" class="highslide-image" onclick="return hs.expand(this);"><img src="http://www.bennychen.cn/wp-content/uploads/2010/02/flow-of-control.jpg" alt="FoC of Game" title="flow of control" width="462" height="372" class="alignnone size-full wp-image-712" srcset="http://www.bennychen.cn/wp-content/uploads/2010/02/flow-of-control.jpg 462w, http://www.bennychen.cn/wp-content/uploads/2010/02/flow-of-control-300x241.jpg 300w, http://www.bennychen.cn/wp-content/uploads/2010/02/flow-of-control-372x300.jpg 372w" sizes="(max-width: 462px) 100vw, 462px" /></a>
+<a href="/wp-content/uploads/2010/02/flow-of-control.jpg" class="highslide-image" onclick="return hs.expand(this);"><img src="/wp-content/uploads/2010/02/flow-of-control.jpg" alt="FoC of Game" title="flow of control" width="462" height="372" class="alignnone size-full wp-image-712" srcset="/wp-content/uploads/2010/02/flow-of-control.jpg 462w, /wp-content/uploads/2010/02/flow-of-control-300x241.jpg 300w, /wp-content/uploads/2010/02/flow-of-control-372x300.jpg 372w" sizes="(max-width: 462px) 100vw, 462px" /></a>
 
 ### 1.通过继承
 

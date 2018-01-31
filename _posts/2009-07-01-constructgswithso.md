@@ -4,7 +4,7 @@ title: ConstructGSWithSO
 date: 2009-07-01T17:07:35+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=276
+guid: /?p=276
 permalink: /2009/07/constructgswithso/
 syntaxhighlighter_encoded:
   - "1"

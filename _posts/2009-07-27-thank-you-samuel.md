@@ -4,7 +4,7 @@ title: Thank you, Samuel
 date: 2009-07-27T22:48:33+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=461
+guid: /?p=461
 permalink: /2009/07/thank-you-samuel/
 syntaxhighlighter_encoded:
   - "1"
@@ -23,7 +23,7 @@ tags:
   <strong>The third highest goalscorer in Barça is leaving. But he can walk out the front door after five years at the club, winning almost </strong><strong>everything on offer including last year’s memorable treble.</strong>
 </p>
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2009/07/29-05-09_etoo_copas_01.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignleft size-full wp-image-462" title="29-05-09_etoo_copas_01" src="http://www.bennychen.cn/wp-content/uploads/2009/07/29-05-09_etoo_copas_01.jpg" alt="29-05-09_etoo_copas_01" /></a>**他，拥有着巴萨进球数量第3高记录的得分手，不得不和我们说再见了。但是，他绝对可以骄傲的昂首走出巴萨的大门，因为在诺坎普效力的5年里，他几乎为我们赢得了一切，包括上赛季那永恒难忘的三冠王。**
+<a href="/wp-content/uploads/2009/07/29-05-09_etoo_copas_01.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignleft size-full wp-image-462" title="29-05-09_etoo_copas_01" src="/wp-content/uploads/2009/07/29-05-09_etoo_copas_01.jpg" alt="29-05-09_etoo_copas_01" /></a>**他，拥有着巴萨进球数量第3高记录的得分手，不得不和我们说再见了。但是，他绝对可以骄傲的昂首走出巴萨的大门，因为在诺坎普效力的5年里，他几乎为我们赢得了一切，包括上赛季那永恒难忘的三冠王。**
 
 It is time to say goodbye and thank you to Samuel. The Cameroonian striker, came to the club from Mallorca and is now headed for Inter Milan. In his five seasons, he has scored 130 official goals, making him the third highest goalscorer the club has ever had. Only César (235) and Kubala (196) top his record.
 

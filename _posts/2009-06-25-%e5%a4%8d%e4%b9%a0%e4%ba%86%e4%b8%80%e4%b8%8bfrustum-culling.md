@@ -4,7 +4,7 @@ title: 复习了一下Frustum Culling
 date: 2009-06-25T18:17:48+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=234
+guid: /?p=234
 permalink: '/2009/06/%e5%a4%8d%e4%b9%a0%e4%ba%86%e4%b8%80%e4%b8%8bfrustum-culling/'
 syntaxhighlighter_encoded:
   - "1"
@@ -20,7 +20,7 @@ tags:
 上次跟frustum culling的亲密接触还是两年前的事情，那时的一个游戏Demo里实现了quad-tree地形，并使用frustum culling显著减少三角形面的渲染。
 
 <p style="text-align: center;">
-  <a href="http://www.bennychen.cn/wp-content/uploads/2009/06/catcher-in-the-rye.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="aligncenter size-full wp-image-235" title="catcher-in-the-rye" src="http://www.bennychen.cn/wp-content/uploads/2009/06/catcher-in-the-rye.jpg" alt="catcher-in-the-rye" width="400" height="314" srcset="http://www.bennychen.cn/wp-content/uploads/2009/06/catcher-in-the-rye.jpg 808w, http://www.bennychen.cn/wp-content/uploads/2009/06/catcher-in-the-rye-300x235.jpg 300w, http://www.bennychen.cn/wp-content/uploads/2009/06/catcher-in-the-rye-381x300.jpg 381w" sizes="(max-width: 400px) 100vw, 400px" /></a><strong>两年前的游戏Demo：麦田里的守望者</strong>
+  <a href="/wp-content/uploads/2009/06/catcher-in-the-rye.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="aligncenter size-full wp-image-235" title="catcher-in-the-rye" src="/wp-content/uploads/2009/06/catcher-in-the-rye.jpg" alt="catcher-in-the-rye" width="400" height="314" srcset="/wp-content/uploads/2009/06/catcher-in-the-rye.jpg 808w, /wp-content/uploads/2009/06/catcher-in-the-rye-300x235.jpg 300w, /wp-content/uploads/2009/06/catcher-in-the-rye-381x300.jpg 381w" sizes="(max-width: 400px) 100vw, 400px" /></a><strong>两年前的游戏Demo：麦田里的守望者</strong>
 </p>
 
 这一丢就是两年了，最近的大规模人群渲染项目，逼得我再次对frustum culling发出了呼唤，凭着模糊的记忆，再把frustum的一些原理复习了一下，不用1个小时，我就重拾了frustum culling的相关核心概念和技术，并获得了新的理解。

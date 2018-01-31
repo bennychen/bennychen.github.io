@@ -4,7 +4,7 @@ title: 3ds-max-exporter-plugin
 date: 2011-06-15T21:50:58+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=1553
+guid: /?p=1553
 permalink: /2011/06/3ds-max-exporter-plugin/
 sfw_pwd:
   - i5iCTILoEJDJ
@@ -36,11 +36,11 @@ Articles from my blogs about this plugin:
   
 1st part: My Footsteps of Programming 3DS Max Exporter Plug-in (1)
   
-<http://www.bennychen.cn/2009/11/my-footsteps-of-programming-3ds-max-exporter-plug-in/>
+</2009/11/my-footsteps-of-programming-3ds-max-exporter-plug-in/>
   
 2nd part: My Footsteps of Programming 3DS Max Exporter Plug-in (2)
   
-<http://www.bennychen.cn/2010/05/my-footsteps-of-programming-3ds-max-exporter-plug-in-continued/>
+</2010/05/my-footsteps-of-programming-3ds-max-exporter-plug-in-continued/>
 
 Introduction to Source Directory：
 

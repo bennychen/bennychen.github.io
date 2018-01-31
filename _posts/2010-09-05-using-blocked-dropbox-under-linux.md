@@ -4,7 +4,7 @@ title: Using Blocked Dropbox under Linux
 date: 2010-09-05T12:19:47+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=1055
+guid: /?p=1055
 permalink: /2010/09/using-blocked-dropbox-under-linux/
 sfw_pwd:
   - msFiftW0poL9

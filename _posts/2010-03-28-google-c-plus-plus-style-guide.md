@@ -4,7 +4,7 @@ title: '[译]Google的C++风格参考指南（1）- 头文件'
 date: 2010-03-28T20:15:20+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=738
+guid: /?p=738
 permalink: '/2010/03/%e8%af%91google%e7%9a%84c%e9%a3%8e%e6%a0%bc%e5%8f%82%e8%80%83%e6%8c%87%e5%8d%97%ef%bc%881%ef%bc%89-%e5%a4%b4%e6%96%87%e4%bb%b6/'
 podPressPostSpecific:
   - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'

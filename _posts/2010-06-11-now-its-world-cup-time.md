@@ -4,7 +4,7 @@ title: 'Now it is World Cup time'
 date: 2010-06-11T21:33:21+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=836
+guid: /?p=836
 permalink: /2010/06/now-its-world-cup-time/
 podPressPostSpecific:
   - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'

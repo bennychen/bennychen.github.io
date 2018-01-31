@@ -4,7 +4,7 @@ title: Get streaming output statistics
 date: 2009-07-08T13:33:08+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=300
+guid: /?p=300
 permalink: /2009/07/get-streaming-output-statistics/
 syntaxhighlighter_encoded:
   - "1"

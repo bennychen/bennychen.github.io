@@ -4,7 +4,7 @@ title: Unity Developer ++
 date: 2011-10-04T11:44:56+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=1682
+guid: /?p=1682
 permalink: /2011/10/unity-developer/
 sfw_pwd:
   - atI7LksXbfPK
@@ -30,4 +30,4 @@ tags:
 
 PS:今早不到10点就跑到了中关村的Starbucks，享受包场=.=
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2011/10/3f82386djw1dlrt2f9syzj.jpg" class="highslide-image" onclick="return hs.expand(this);"><img src="http://www.bennychen.cn/wp-content/uploads/2011/10/3f82386djw1dlrt2f9syzj-300x300.jpg" alt="" title="zhongguancun_starbucks" width="300" height="300" class="alignnone size-medium wp-image-1683" srcset="http://www.bennychen.cn/wp-content/uploads/2011/10/3f82386djw1dlrt2f9syzj-300x300.jpg 300w, http://www.bennychen.cn/wp-content/uploads/2011/10/3f82386djw1dlrt2f9syzj-150x150.jpg 150w, http://www.bennychen.cn/wp-content/uploads/2011/10/3f82386djw1dlrt2f9syzj.jpg 440w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href="/wp-content/uploads/2011/10/3f82386djw1dlrt2f9syzj.jpg" class="highslide-image" onclick="return hs.expand(this);"><img src="/wp-content/uploads/2011/10/3f82386djw1dlrt2f9syzj-300x300.jpg" alt="" title="zhongguancun_starbucks" width="300" height="300" class="alignnone size-medium wp-image-1683" srcset="/wp-content/uploads/2011/10/3f82386djw1dlrt2f9syzj-300x300.jpg 300w, /wp-content/uploads/2011/10/3f82386djw1dlrt2f9syzj-150x150.jpg 150w, /wp-content/uploads/2011/10/3f82386djw1dlrt2f9syzj.jpg 440w" sizes="(max-width: 300px) 100vw, 300px" /></a>

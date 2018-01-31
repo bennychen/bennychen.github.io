@@ -4,7 +4,7 @@ title: Last Working Day@IBM
 date: 2011-08-19T23:37:47+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=1599
+guid: /?p=1599
 permalink: /2011/08/last-working-dayibm/
 sfw_pwd:
   - bRhhfORexs2k

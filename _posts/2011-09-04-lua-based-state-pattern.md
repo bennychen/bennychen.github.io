@@ -4,7 +4,7 @@ title: 基于Lua的State Pattern
 date: 2011-09-04T12:56:21+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=1638
+guid: /?p=1638
 permalink: /2011/09/lua-based-state-pattern/
 sfw_comment_form_password:
   - 4NQyJfNJBDnW

@@ -4,7 +4,7 @@ title: std::bad_alloc?
 date: 2009-06-29T17:34:51+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=243
+guid: /?p=243
 permalink: /2009/06/stdbad_alloc/
 syntaxhighlighter_encoded:
   - "1"

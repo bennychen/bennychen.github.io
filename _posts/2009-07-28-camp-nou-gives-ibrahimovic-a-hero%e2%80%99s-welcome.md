@@ -4,7 +4,7 @@ title: Camp Nou gives Ibrahimovic a hero’s welcome
 date: 2009-07-28T21:01:49+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=468
+guid: /?p=468
 permalink: '/2009/07/camp-nou-gives-ibrahimovic-a-hero%e2%80%99s-welcome/'
 syntaxhighlighter_encoded:
   - "1"
@@ -24,7 +24,7 @@ tags:
 
 **伊布拉希莫维奇在诺坎普受到了如斯疯狂的欢迎。被如此隆重的介绍给俱乐部，这位瑞典前锋也感到受宠若惊，他说，在他的一生中，只有他的孩子出生的时候，才能和此刻相比。**
 
-**<a href="http://www.bennychen.cn/wp-content/uploads/2009/07/2009-07-27_presentacion_zlatan_ibrahimovic_004.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignleft size-full wp-image-469" title="2009-07-27_presentacion_zlatan_ibrahimovic_004" src="http://www.bennychen.cn/wp-content/uploads/2009/07/2009-07-27_presentacion_zlatan_ibrahimovic_004.jpg" alt="2009-07-27_presentacion_zlatan_ibrahimovic_004" srcset="http://www.bennychen.cn/wp-content/uploads/2009/07/2009-07-27_presentacion_zlatan_ibrahimovic_004.jpg 350w, http://www.bennychen.cn/wp-content/uploads/2009/07/2009-07-27_presentacion_zlatan_ibrahimovic_004-300x197.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></a>**No fewer than 60,000 people assembled in the Camp Nou on Monday evening to get their first glimpse of the new Barça centre forward. The Swede was given an enthusiastic welcome by a generally young crowd that enjoyed every second of the presentation.
+**<a href="/wp-content/uploads/2009/07/2009-07-27_presentacion_zlatan_ibrahimovic_004.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignleft size-full wp-image-469" title="2009-07-27_presentacion_zlatan_ibrahimovic_004" src="/wp-content/uploads/2009/07/2009-07-27_presentacion_zlatan_ibrahimovic_004.jpg" alt="2009-07-27_presentacion_zlatan_ibrahimovic_004" srcset="/wp-content/uploads/2009/07/2009-07-27_presentacion_zlatan_ibrahimovic_004.jpg 350w, /wp-content/uploads/2009/07/2009-07-27_presentacion_zlatan_ibrahimovic_004-300x197.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></a>**No fewer than 60,000 people assembled in the Camp Nou on Monday evening to get their first glimpse of the new Barça centre forward. The Swede was given an enthusiastic welcome by a generally young crowd that enjoyed every second of the presentation.
 
 星期一晚，为了能够尽快目睹这位巴萨新任中锋的风采，至少有6万名球迷涌入了诺坎普体育场。到场的球迷中，大多数都是年轻人，他们享受着当晚的每一秒种，并给予了瑞典人最热烈的欢迎。
 

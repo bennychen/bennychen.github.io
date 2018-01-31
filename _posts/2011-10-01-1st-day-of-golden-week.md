@@ -4,7 +4,7 @@ title: 1st Day of Golden Week
 date: 2011-10-01T23:51:39+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=1673
+guid: /?p=1673
 permalink: /2011/10/1st-day-of-golden-week/
 sfw_pwd:
   - EHm5CkriE4A0
@@ -22,4 +22,4 @@ tags:
 
 已经将代码更新到了github &#8211; <https://github.com/bennychen/Moai-based-Pacman>
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2011/10/IMAG0428.jpg" class="highslide-image" onclick="return hs.expand(this);"><img src="http://www.bennychen.cn/wp-content/uploads/2011/10/IMAG0428-300x179.jpg" alt="" title="ipad_pacman_moai" width="300" height="179" class="alignnone size-medium wp-image-1674" srcset="http://www.bennychen.cn/wp-content/uploads/2011/10/IMAG0428-300x179.jpg 300w, http://www.bennychen.cn/wp-content/uploads/2011/10/IMAG0428-1024x612.jpg 1024w, http://www.bennychen.cn/wp-content/uploads/2011/10/IMAG0428.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href="/wp-content/uploads/2011/10/IMAG0428.jpg" class="highslide-image" onclick="return hs.expand(this);"><img src="/wp-content/uploads/2011/10/IMAG0428-300x179.jpg" alt="" title="ipad_pacman_moai" width="300" height="179" class="alignnone size-medium wp-image-1674" srcset="/wp-content/uploads/2011/10/IMAG0428-300x179.jpg 300w, /wp-content/uploads/2011/10/IMAG0428-1024x612.jpg 1024w, /wp-content/uploads/2011/10/IMAG0428.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>

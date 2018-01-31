@@ -4,7 +4,7 @@ title: Forca Barca!
 date: 2010-04-21T20:24:18+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=764
+guid: /?p=764
 permalink: /2010/04/forca-barca/
 podPressPostSpecific:
   - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'

@@ -4,7 +4,7 @@ title: 'Quotes from <<Clean Code: A Handbook of Agile Software Craftsmanship>> (
 date: 2010-01-20T17:57:40+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=669
+guid: /?p=669
 permalink: /2010/01/quotes-from-clean-code-a-handbook-of-agile-software-craftsmanship-1/
 syntaxhighlighter_encoded:
   - "1"

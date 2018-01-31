@@ -4,7 +4,7 @@ title: Tracy Chapman
 date: 2009-09-26T21:21:05+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=592
+guid: /?p=592
 permalink: /2009/09/tracy-chapman/
 syntaxhighlighter_encoded:
   - "1"
@@ -22,7 +22,7 @@ tags:
 
 我是在土摩托的博客里无意中听到了她的歌，是那种一听就很打动人的声音，很安静的民谣，是深夜陪伴孤独的良药。
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2009/09/200px-tracy_chapman_collection_front500.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="size-full wp-image-596 alignright" title="200px-tracy_chapman_collection_front500" src="http://www.bennychen.cn/wp-content/uploads/2009/09/200px-tracy_chapman_collection_front500.jpg" alt="200px-tracy_chapman_collection_front500" width="200" height="200" srcset="http://www.bennychen.cn/wp-content/uploads/2009/09/200px-tracy_chapman_collection_front500.jpg 200w, http://www.bennychen.cn/wp-content/uploads/2009/09/200px-tracy_chapman_collection_front500-150x150.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" /></a>有趣的是，当我第一次听到她的声音的时候，以为是个男歌手。而且她的名字，前半部分让人想到的是Tracy McGrady，后半部分则让我想到了令人深恶痛绝的杀害列侬的查普曼（真不该这么联想），怎么都没想到，后来去网上搜索“他”的资料，居然是位创作型的黑人女歌手，而且才华相当的了得。
+<a href="/wp-content/uploads/2009/09/200px-tracy_chapman_collection_front500.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="size-full wp-image-596 alignright" title="200px-tracy_chapman_collection_front500" src="/wp-content/uploads/2009/09/200px-tracy_chapman_collection_front500.jpg" alt="200px-tracy_chapman_collection_front500" width="200" height="200" srcset="/wp-content/uploads/2009/09/200px-tracy_chapman_collection_front500.jpg 200w, /wp-content/uploads/2009/09/200px-tracy_chapman_collection_front500-150x150.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" /></a>有趣的是，当我第一次听到她的声音的时候，以为是个男歌手。而且她的名字，前半部分让人想到的是Tracy McGrady，后半部分则让我想到了令人深恶痛绝的杀害列侬的查普曼（真不该这么联想），怎么都没想到，后来去网上搜索“他”的资料，居然是位创作型的黑人女歌手，而且才华相当的了得。
 
 我去电驴子上找她的专辑，下载了她的《Collection》这张（盗版有罪，罪哉，罪哉&#8230;&#8230;）。一般对于新认识的一位歌手或乐队，如果试图尽快了解，选择听的专辑应该是诸如《The Best of XXX》《Collection》，《Anthology》等等这样的合辑。在听了专辑后，发现好几首都是以前听过的，以前听的只是别的乐队翻唱的版本，她才是真正的原作。比如《Baby Can I Hold You》，以前听过Boyzone的版本，而《Fast Car》这首歌的前奏，简直太熟悉了，貌似在很多吉他视频教程里面，是不断的不断的被重复播放的段子，哈哈！
 

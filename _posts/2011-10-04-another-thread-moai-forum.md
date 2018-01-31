@@ -4,7 +4,7 @@ title: Another Thread @ Moai Forum
 date: 2011-10-04T11:07:48+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=1677
+guid: /?p=1677
 permalink: /2011/10/another-thread-moai-forum/
 sfw_pwd:
   - D3GOhTkEkrdn

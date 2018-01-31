@@ -4,7 +4,7 @@ title: FC Barcelona wins the European Super Cup
 date: 2009-08-30T11:17:29+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=541
+guid: /?p=541
 permalink: /2009/08/fc-barcelona-wins-the-european-super-cup/
 syntaxhighlighter_encoded:
   - "1"
@@ -18,7 +18,7 @@ tags:
   - barca
   - european super cup
 ---
-<a href="http://www.bennychen.cn/wp-content/uploads/2009/08/supercampions_x2x.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignleft size-full wp-image-542" title="supercampions_x2x" src="http://www.bennychen.cn/wp-content/uploads/2009/08/supercampions_x2x.jpg" alt="supercampions_x2x" /></a>FC Barcelona won their 3rd European Super Cup after a goalless draw match won only in the extra time with a sole goal by Barca youth player Pedro Rodriguez.
+<a href="/wp-content/uploads/2009/08/supercampions_x2x.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignleft size-full wp-image-542" title="supercampions_x2x" src="/wp-content/uploads/2009/08/supercampions_x2x.jpg" alt="supercampions_x2x" /></a>FC Barcelona won their 3rd European Super Cup after a goalless draw match won only in the extra time with a sole goal by Barca youth player Pedro Rodriguez.
 
 Shakhtar players defended well an entire match and earned their team an extra time. With 5 minutes left to go Man of the Match Lionel Messi played a nice action with Pedro on the left side and the youngster scored a winning goal which proved to be decisive for taking the cup.
 

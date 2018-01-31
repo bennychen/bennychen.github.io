@@ -4,7 +4,7 @@ title: 19th League Title
 date: 2009-05-17T10:55:10+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=105
+guid: /?p=105
 permalink: /2009/05/19th-league-title/
 syntaxhighlighter_encoded:
   - "1"

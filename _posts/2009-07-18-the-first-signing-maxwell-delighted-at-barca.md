@@ -4,7 +4,7 @@ title: 'The First Signing - Maxwell delighted at Barca'
 date: 2009-07-18T15:17:42+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=390
+guid: /?p=390
 permalink: /2009/07/the-first-signing-maxwell-delighted-at-barca/
 syntaxhighlighter_encoded:
   - "1"
@@ -18,7 +18,7 @@ tags:
   - barca
   - Maxwell
 ---
-**<a href="http://www.bennychen.cn/wp-content/uploads/2009/07/2009-07-17_presentacion_maxwell_10.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignleft size-full wp-image-391" title="2009-07-17_presentacion_maxwell_10" src="http://www.bennychen.cn/wp-content/uploads/2009/07/2009-07-17_presentacion_maxwell_10.jpg" alt="2009-07-17_presentacion_maxwell_10" /></a>In his official presentation to the media, Maxwell, Barca’s new left back has said that “today is a very special and happy day for me &#8230; it is a dream come true.”**
+**<a href="/wp-content/uploads/2009/07/2009-07-17_presentacion_maxwell_10.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignleft size-full wp-image-391" title="2009-07-17_presentacion_maxwell_10" src="/wp-content/uploads/2009/07/2009-07-17_presentacion_maxwell_10.jpg" alt="2009-07-17_presentacion_maxwell_10" /></a>In his official presentation to the media, Maxwell, Barca’s new left back has said that “today is a very special and happy day for me &#8230; it is a dream come true.”**
 
 **马克斯维尔，作为巴萨最新引进的左后卫，在他的官方媒体见面发布会中说道：“今天对于我来说，是特殊而开心的一天，因为这是我梦想成真的一天。”
   

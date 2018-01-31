@@ -4,7 +4,7 @@ title: '[译]优化你的手机游戏（没有延迟的，才是健康的）- �
 date: 2013-05-05T22:27:18+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=1738
+guid: /?p=1738
 permalink: /2013/05/optimising_your_mobile_game/
 sfw_pwd:
   - JqtLxPAtjmku
@@ -33,7 +33,7 @@ categories:
 
 如果一直这样，那我们开发的游戏——AlieNation，将变得根本不能玩。幸运的是，我们停止了错误，并开始搜集大家的想法，对游戏进行优化（优化成为了我们开发中的新王牌武器！）
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2013/05/alienation.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignnone size-medium wp-image-1740" alt="alienation" src="http://www.bennychen.cn/wp-content/uploads/2013/05/alienation-300x253.jpg" width="300" height="253" srcset="http://www.bennychen.cn/wp-content/uploads/2013/05/alienation-300x253.jpg 300w, http://www.bennychen.cn/wp-content/uploads/2013/05/alienation.jpg 319w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href="/wp-content/uploads/2013/05/alienation.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignnone size-medium wp-image-1740" alt="alienation" src="/wp-content/uploads/2013/05/alienation-300x253.jpg" width="300" height="253" srcset="/wp-content/uploads/2013/05/alienation-300x253.jpg 300w, /wp-content/uploads/2013/05/alienation.jpg 319w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
 ### 为什么我们从2D转向3D
 
@@ -49,7 +49,7 @@ categories:
 
 现在每次我看到它时（下图的左下角就是Vogel教授），还会忍不住幸福热泪 ;-(
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2013/05/vogelingame.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignnone size-medium wp-image-1741" alt="vogelingame" src="http://www.bennychen.cn/wp-content/uploads/2013/05/vogelingame-300x185.jpg" width="300" height="185" srcset="http://www.bennychen.cn/wp-content/uploads/2013/05/vogelingame-300x185.jpg 300w, http://www.bennychen.cn/wp-content/uploads/2013/05/vogelingame.jpg 512w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href="/wp-content/uploads/2013/05/vogelingame.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignnone size-medium wp-image-1741" alt="vogelingame" src="/wp-content/uploads/2013/05/vogelingame-300x185.jpg" width="300" height="185" srcset="/wp-content/uploads/2013/05/vogelingame-300x185.jpg 300w, /wp-content/uploads/2013/05/vogelingame.jpg 512w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
 ### 不要在贴图（纹理）优化上偷懒！
 
@@ -65,7 +65,7 @@ categories:
 
 PNG相比于其它很多格式没那么“邪恶”。相比于JPEG的有损压缩，它的压缩是无损的；它虽然对于Alpha透明的处理不像TGA那么出色，但是它既压缩文件同时又能保证足够好的Alpha映射，确实比其它的格式胜出一筹。
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2013/05/texfilesize.jpg" class="highslide-image" onclick="return hs.expand(this);"><img alt="texfilesize" src="http://www.bennychen.cn/wp-content/uploads/2013/05/texfilesize-300x111.jpg" width="300" height="111" /></a>
+<a href="/wp-content/uploads/2013/05/texfilesize.jpg" class="highslide-image" onclick="return hs.expand(this);"><img alt="texfilesize" src="/wp-content/uploads/2013/05/texfilesize-300x111.jpg" width="300" height="111" /></a>
 
 很多团队的教训是类似的：
 
@@ -83,7 +83,7 @@ Alpha贴图的卓越优点是它可以让一个物体的部分透明，非常容
 
 我意识到，在这里我有点自相矛盾了，因为之前我说过，要把更多的细节放在贴图中，而不是网格模型上。记住一点，没有绝对的优化技术，如果你拥有这样的能力可以在特定时候选择使用最合理的优化技术，就造就了你不仅仅是一个游戏美术设计师，而且是一个伟大的牛逼的设计师 😀
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2013/05/thumbsup.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignnone size-medium wp-image-1761" alt="thumbsup" src="http://www.bennychen.cn/wp-content/uploads/2013/05/thumbsup-300x231.jpg" width="300" height="231" srcset="http://www.bennychen.cn/wp-content/uploads/2013/05/thumbsup-300x231.jpg 300w, http://www.bennychen.cn/wp-content/uploads/2013/05/thumbsup.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href="/wp-content/uploads/2013/05/thumbsup.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignnone size-medium wp-image-1761" alt="thumbsup" src="/wp-content/uploads/2013/05/thumbsup-300x231.jpg" width="300" height="231" srcset="/wp-content/uploads/2013/05/thumbsup-300x231.jpg 300w, /wp-content/uploads/2013/05/thumbsup.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
 ### 粒子系统，draw calls，还有物理
 
@@ -101,7 +101,7 @@ draw call是针对场景中每一个不同的物体而创建的（多一个draw 
 
 我喜欢制作一些粒子效果，但是每当我看到一些初级的设计师，看到一个漂亮而高效的粒子效果问：“只有10个粒子？太少了，这个如果用2000个粒子会更好”，我就巨他妈的沮丧，甚至肉体难受 🙁
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2013/05/particles.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignnone size-medium wp-image-1764" alt="particles" src="http://www.bennychen.cn/wp-content/uploads/2013/05/particles-300x209.jpg" width="300" height="209" srcset="http://www.bennychen.cn/wp-content/uploads/2013/05/particles-300x209.jpg 300w, http://www.bennychen.cn/wp-content/uploads/2013/05/particles.jpg 512w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href="/wp-content/uploads/2013/05/particles.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignnone size-medium wp-image-1764" alt="particles" src="/wp-content/uploads/2013/05/particles-300x209.jpg" width="300" height="209" srcset="/wp-content/uploads/2013/05/particles-300x209.jpg 300w, /wp-content/uploads/2013/05/particles.jpg 512w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
 对于上图，厄&#8230;.这&#8230;..你为什么要这么搞，非常差劲的初级美术。
 

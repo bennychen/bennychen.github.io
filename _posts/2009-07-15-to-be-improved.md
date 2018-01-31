@@ -4,7 +4,7 @@ title: To be improved
 date: 2009-07-15T13:22:14+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=365
+guid: /?p=365
 permalink: /2009/07/to-be-improved/
 syntaxhighlighter_encoded:
   - "1"

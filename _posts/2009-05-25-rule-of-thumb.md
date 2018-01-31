@@ -4,7 +4,7 @@ title: rule of thumb
 date: 2009-05-25T14:50:33+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=132
+guid: /?p=132
 permalink: /2009/05/rule-of-thumb/
 syntaxhighlighter_encoded:
   - "1"

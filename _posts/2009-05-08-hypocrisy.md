@@ -4,7 +4,7 @@ title: hypocrisy
 date: 2009-05-08T21:43:04+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=19
+guid: /?p=19
 permalink: /2009/05/hypocrisy/
 sfw_pwd:
   - DOoJlRNcvGIb

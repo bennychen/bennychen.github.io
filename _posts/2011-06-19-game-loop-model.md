@@ -4,7 +4,7 @@ title: Game Loop的几种实现方式
 date: 2011-06-19T23:37:10+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=1559
+guid: /?p=1559
 permalink: /2011/06/game-loop-model/
 sfw_pwd:
   - g2tMg6kqBgaC
@@ -51,7 +51,7 @@ game loop中所处理的逻辑和操作包罗万象，但一般可抽象为以�
 
 OK，介绍了这么多跟game loop相关的概念，接下来进入正题，game loop的各种实现方式大盘点。
 
-有一点需要强调的是，game loop在单线程的游戏系统中是一种情况，而在多线程的系统中又是另一个不同的故事。多线程对于系统会引入异常的复杂性，关于这个，可以看我之前的一篇关于游戏引擎多线程的文章：<http://www.bennychen.cn/2011/01/关于游戏引擎多线程的一些整理和思考/>。相比来讲，单线程要简单很多，这篇文章里以下的一些game loop的实现方式也主要是针对在单线程环境中的。
+有一点需要强调的是，game loop在单线程的游戏系统中是一种情况，而在多线程的系统中又是另一个不同的故事。多线程对于系统会引入异常的复杂性，关于这个，可以看我之前的一篇关于游戏引擎多线程的文章：</2011/01/关于游戏引擎多线程的一些整理和思考/>。相比来讲，单线程要简单很多，这篇文章里以下的一些game loop的实现方式也主要是针对在单线程环境中的。
 
 在单线程环境中，game loop按照实现方式可以分为以下这几种类型：
 
@@ -114,11 +114,11 @@ while ( game is running )
 
 但随之而来，这种game loop实现方式的缺点也暴露出来了。比如考虑这样一种场景，物体绕着一个弧形的轨迹进行移动。在正常的速率下，物体的运行轨迹几乎是弧形的。如下图，图片来自于[5]。
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2011/06/Screen-shot-2011-06-18-at-11.57.04-PM.png" class="highslide-image" onclick="return hs.expand(this);"><img src="http://www.bennychen.cn/wp-content/uploads/2011/06/Screen-shot-2011-06-18-at-11.57.04-PM.png" alt="" title="move in curve normal" width="239" height="181" class="alignnone size-full wp-image-1594" /></a>
+<a href="/wp-content/uploads/2011/06/Screen-shot-2011-06-18-at-11.57.04-PM.png" class="highslide-image" onclick="return hs.expand(this);"><img src="/wp-content/uploads/2011/06/Screen-shot-2011-06-18-at-11.57.04-PM.png" alt="" title="move in curve normal" width="239" height="181" class="alignnone size-full wp-image-1594" /></a>
 
 但是在较慢的机器上，虽然物体的移动位置点能保持同步，因为更新的频率较低，物体的移动轨迹就变得非常离散，以至于不是按照一个弧形在移动，如下图。
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2011/06/Screen-shot-2011-06-18-at-11.57.15-PM.png" class="highslide-image" onclick="return hs.expand(this);"><img src="http://www.bennychen.cn/wp-content/uploads/2011/06/Screen-shot-2011-06-18-at-11.57.15-PM.png" alt="" title="move with curve abnormal" width="227" height="184" class="alignnone size-full wp-image-1595" /></a>
+<a href="/wp-content/uploads/2011/06/Screen-shot-2011-06-18-at-11.57.15-PM.png" class="highslide-image" onclick="return hs.expand(this);"><img src="/wp-content/uploads/2011/06/Screen-shot-2011-06-18-at-11.57.15-PM.png" alt="" title="move with curve abnormal" width="227" height="184" class="alignnone size-full wp-image-1595" /></a>
 
 其它的效果也有类似的问题，比如说动画，虽然说动画的播放速率是一致的，但是在较慢的机器上，会出现比较严重的掉帧现象，这就是我们俗称的“卡了”。再比如说物理，在一个正常的机器上，一个障碍物能够完美的被避开，但在一个较慢的机器上，这就不好说了。
 

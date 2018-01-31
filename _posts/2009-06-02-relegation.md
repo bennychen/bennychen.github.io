@@ -4,7 +4,7 @@ title: relegation
 date: 2009-06-02T23:41:05+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=179
+guid: /?p=179
 permalink: /2009/06/relegation/
 syntaxhighlighter_encoded:
   - "1"

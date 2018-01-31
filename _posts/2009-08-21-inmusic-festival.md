@@ -4,7 +4,7 @@ title: Inmusic Festival
 date: 2009-08-21T20:51:23+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=523
+guid: /?p=523
 permalink: /2009/08/inmusic-festival/
 syntaxhighlighter_encoded:
   - "1"

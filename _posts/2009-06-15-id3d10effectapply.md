@@ -4,7 +4,7 @@ title: ID3D10EffectPass::Apply
 date: 2009-06-15T17:13:43+08:00
 author: Benny Chen
 layout: post
-guid: http://www.bennychen.cn/?p=208
+guid: /?p=208
 permalink: /2009/06/id3d10effectapply/
 syntaxhighlighter_encoded:
   - "1"
@@ -39,10 +39,10 @@ tags:
 
 调试BUG，除了需要很好的逻辑推理排错能力，还要勇于去怀疑一些思维定势（当然也没必要怀疑一切），有时，或许越是深信不疑的某些东西就是错误的根源，打破它，错误也便迎刃而解。
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2009/06/texture-bug.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignnone size-full wp-image-212" title="texture-bug" src="http://www.bennychen.cn/wp-content/uploads/2009/06/texture-bug.jpg" alt="before bug was fixed" srcset="http://www.bennychen.cn/wp-content/uploads/2009/06/texture-bug.jpg 326w, http://www.bennychen.cn/wp-content/uploads/2009/06/texture-bug-300x232.jpg 300w" sizes="(max-width: 326px) 100vw, 326px" /></a>
+<a href="/wp-content/uploads/2009/06/texture-bug.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignnone size-full wp-image-212" title="texture-bug" src="/wp-content/uploads/2009/06/texture-bug.jpg" alt="before bug was fixed" srcset="/wp-content/uploads/2009/06/texture-bug.jpg 326w, /wp-content/uploads/2009/06/texture-bug-300x232.jpg 300w" sizes="(max-width: 326px) 100vw, 326px" /></a>
   
 **before bug was fixed**
 
-<a href="http://www.bennychen.cn/wp-content/uploads/2009/06/texture-bug-fixed.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignnone size-full wp-image-213" title="texture-bug-fixed" src="http://www.bennychen.cn/wp-content/uploads/2009/06/texture-bug-fixed.jpg" alt="after bug was fixed" srcset="http://www.bennychen.cn/wp-content/uploads/2009/06/texture-bug-fixed.jpg 326w, http://www.bennychen.cn/wp-content/uploads/2009/06/texture-bug-fixed-300x233.jpg 300w" sizes="(max-width: 326px) 100vw, 326px" /></a>
+<a href="/wp-content/uploads/2009/06/texture-bug-fixed.jpg" class="highslide-image" onclick="return hs.expand(this);"><img class="alignnone size-full wp-image-213" title="texture-bug-fixed" src="/wp-content/uploads/2009/06/texture-bug-fixed.jpg" alt="after bug was fixed" srcset="/wp-content/uploads/2009/06/texture-bug-fixed.jpg 326w, /wp-content/uploads/2009/06/texture-bug-fixed-300x233.jpg 300w" sizes="(max-width: 326px) 100vw, 326px" /></a>
   
 **after bug was fixed**
