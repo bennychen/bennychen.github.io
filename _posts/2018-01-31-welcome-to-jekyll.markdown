@@ -11,6 +11,10 @@ Github Pages 基于的这套 Jekyll 网站生成工具，比 WordPress 简洁好
 
 1. 把之前整个 WordPress 网站导出，迁移到 github.io，使用的工具是 [WordPress to Jekyll Exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter)
 
+- 导出会带一个 wp-content 文件夹，包含原来网站所有的图片，可以一并提交到 github.io
+- 全局替换所有的原先域名（我的是 http://www.bennychen.cn）为空，这样可以把所有的图片链接切换到本地 wp-content 文件夹中的资源
+- 另外貌似我导出的每篇文章的时区模式是 +0000，需要全局替换为东八区 +0800，这样文章的时间才是正确的
+
 2. 决定 2018 年要重新开始写文章，至少一周一篇。我争取尽量不写技术的。
 
 <br>
